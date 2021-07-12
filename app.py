@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 from flask import Flask, render_template, request
 from sklearn.feature_extraction.text import TfidfVectorizer
